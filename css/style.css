@@ -23,3 +23,15 @@
 .evidenziatore{
     background-color: yellow;
 }
+
+#tab-header{
+   width: 100%;
+   background-color: #3fb5e8;
+}
+.titol-tab{
+    background-color: #3fb5e8;
+}
+
+.tab{
+    background-color: #b1e5f2;
+}
