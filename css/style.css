@@ -1,0 +1,16 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#patt{
+    background-color: #1E90FF;
+    height: 250px;
+}
+#logo{
+    width: 350px;
+    position: absolute;
+    top: 150px;
+}
+#boolean{
+    color: #3fb5e8;
+}
