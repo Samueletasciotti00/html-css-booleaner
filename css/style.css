@@ -5,12 +5,21 @@
 #patt{
     background-color: #1E90FF;
     height: 250px;
+    background-image: url(../img/pattern.png);
 }
 #logo{
     width: 350px;
-    position: absolute;
     top: 150px;
+    position: absolute;
 }
 #boolean{
     color: #3fb5e8;
+}
+
+.description{
+    font-size: 12px;
+}
+
+.evidenziatore{
+    background-color: yellow;
 }
