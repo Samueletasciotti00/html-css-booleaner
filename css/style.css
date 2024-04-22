@@ -27,6 +27,8 @@
 #tab-header{
    width: 100%;
    background-color: #3fb5e8;
+   border-collapse: collapse;
+   text-align: left;
 }
 .titol-tab{
     background-color: #3fb5e8;
